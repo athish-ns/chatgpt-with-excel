@@ -6,7 +6,7 @@ Const API_KEY As String = "<API_KEY>"
 
 ' Constants for API endpoint and request properties
 Const API_ENDPOINT As String = "https://api.openai.com/v1/completions"
-Const MODEL As String = "text-davinci-003"
+Const MODEL As String = "gpt-3.5-turbo-instruct"
 Const MAX_TOKENS As String = "1024"
 Const TEMPERATURE As String = "0.5"
 
